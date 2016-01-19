@@ -11,9 +11,11 @@ The app *DengOut* aims to fight the Aedes Aegypti mosquito, which causes dengue,
 
 ### Want to know more? ###
 
-Pitch video in Portuguese [here (with English subtitles)](https://youtu.be/ClJLLcyt3l0) or [here](https://www.youtube.com/watch?v=ZP-uq_dm8Io).
+Pitch video in Portuguese [here](https://youtu.be/ClJLLcyt3l0)* or [here](https://www.youtube.com/watch?v=ZP-uq_dm8Io).
 
-Demo video in Portuguese [here (with English subtitles)](https://youtu.be/kPwccbsL3Ug) or [here](https://www.youtube.com/watch?v=ApkElqXowxQ).
+Demo video in Portuguese [here](https://youtu.be/kPwccbsL3Ug)* or [here](https://www.youtube.com/watch?v=ApkElqXowxQ).
+
+(\*) *English subtitles*
 
 
 
