@@ -24,6 +24,7 @@ Demo video in Portuguese [here](https://youtu.be/kPwccbsL3Ug)* or [here](https:/
 S.O.S. RJ Team (grupo.technovation.rj@gmail.com)
 
 Mariam Afonso (mariam.afonso@gmail.com)
+###### Repository available at [Bitbucket](https://bitbucket.org/mariamafonso/dengout_technovation) and [GitHub](https://github.com/mariamafonso/dengout_technovation) ######
 
 
 
